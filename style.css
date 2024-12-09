@@ -11,7 +11,7 @@ body{
 .calculator{
     width: 100%;
     min-height: 90vh;
-    background-color: #fff;
+    background-color: #eb2a2a;
     display: grid;
     grid-template-columns: repeat(4,1fr);
     max-width: 400px;
